@@ -1,0 +1,4 @@
+Frame __init__
+A pretend error message :p
+>>> Before MainLoop
+Now GUI have closed, add realease rescourses and clear trash methods here!
